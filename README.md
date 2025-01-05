@@ -8,7 +8,7 @@ This project presents a comprehensive analysis of a supermarket sales dataset so
 - **Actionable Recommendations:** Practical suggestions for improving sales and customer experience.
 
 ## Data Source
-The dataset is available on Kaggle[https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales]
+The dataset is available on [Kaggle](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales)
 
 ## Project Workflow
 ### 1. Data Inspection and Cleaning
@@ -37,7 +37,7 @@ The dataset is available on Kaggle[https://www.kaggle.com/datasets/aungpyaeap/su
 - **Improve Ratings:** Investigate Branch B’s lower ratings to enhance service quality.
 
 ## Project Structure
-**`Supermarket_Sales_Analysis.ipynb:`** Contains all steps from data inspection to EDA and final recommendations.
+[**`Supermarket_Sales_Analysis.ipynb:`**]() Contains all steps from data inspection to EDA and final recommendations.
 
 ## Tools Used
 - **Pandas:** Data manipulation and analysis.
