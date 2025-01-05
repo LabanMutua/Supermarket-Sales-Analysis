@@ -37,7 +37,7 @@ The dataset is available on [Kaggle](https://www.kaggle.com/datasets/aungpyaeap/
 - **Improve Ratings:** Investigate Branch B’s lower ratings to enhance service quality.
 
 ## Project Structure
-[**`Supermarket_Sales_Analysis.ipynb:`**]() Contains all steps from data inspection to EDA and final recommendations.
+[**`Supermarket_Sales_Analysis.ipynb:`**](https://github.com/LabanMutua/Supermarket-Sales-Analysis/blob/main/Supermarket%20Sales%20Analysis.ipynb) Contains all steps from data inspection to EDA and final recommendations.
 
 ## Tools Used
 - **Pandas:** Data manipulation and analysis.
